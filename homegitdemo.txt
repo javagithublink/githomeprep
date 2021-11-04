@@ -2,6 +2,7 @@ This is my first line on main branch.
 addtional line on main branch to create conflict.
 *************************************
 This is my second line on branch1.
+Line added to create conflict.
 *************************************
 This is my thrid line on branch2.
 *************************************
