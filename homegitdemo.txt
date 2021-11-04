@@ -1,4 +1,7 @@
 This is my first line on main branch.
 *************************************
 This is my second line on branch1.
+*************************************
+This is my thrid line on branch2.
+*************************************
 
